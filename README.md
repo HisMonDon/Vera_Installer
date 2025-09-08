@@ -12,7 +12,7 @@ Step 2: Open the ZIP file , and click on Vera_Installer.exe
 <img width="1623" height="629" alt="image" src="https://github.com/user-attachments/assets/dd23187b-1dd2-48b1-8648-389e02edba12" />
 
 
-<img width="528" height="491" alt="Screenshot 2025-09-07 221735" src="https://github.com/user-attachments/assets/0efa428a-3222-4b9a-b612-589b76a8b948" />
+<img width="526" height="489" alt="Screenshot 2025-09-07 222712" src="https://github.com/user-attachments/assets/5b0f612a-ca11-4ded-950a-7710e1fdaf63" />
 
 
 Step 3: Follow prompt shown on installer
