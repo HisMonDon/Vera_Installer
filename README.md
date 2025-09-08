@@ -8,5 +8,8 @@ Step 1: Click on 'Code' and Download ZIP
 
 Step 2: Open the ZIP file , and click on Vera_Installer.exe
 
+<img width="1623" height="629" alt="image" src="https://github.com/user-attachments/assets/dd23187b-1dd2-48b1-8648-389e02edba12" />
+
+
 Step 3: Follow prompt shown on installer
 
